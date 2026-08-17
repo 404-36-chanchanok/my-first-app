@@ -5,4 +5,5 @@ vat = price * 0.07
 st.header(f"• ภาษีมูลค่าเพิ่ม (VAT 7%): **{vat:.2f}** บาท")
 net_price = price - vat
 st.header(f"• ราคาสุทธิ: {net_price:.2f} บาท")
-st.divider("นางสาวฉันชนก อินสวน เลขที่ 36 ม.4/4")
+st.divider()
+st.write("นางสาวฉันชนก อินสวน เลขที่ 36 ม.4/4")
