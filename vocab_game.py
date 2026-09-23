@@ -106,7 +106,7 @@ ans3 = st.text_input(
     value=st.session_state.ans3_val,
 )
 ans4 = st.text_input(
-    "ข้อ 4: I have `G _ f t` for you. 🎁",
+    "ข้อ 4: I have `g _ f t` for you . 🎁",
     value=st.session_state.ans4_val,
 
 # อัปเดตค่าล่าสุดเข้าตัวแปร
